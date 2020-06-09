@@ -1,3 +1,5 @@
+
+WORKING IN PROGRESS
 # Getting started
 
 - Ter o yarn instalado no seu computador [https://classic.yarnpkg.com/en/docs/install/]([https://classic.yarnpkg.com/en/docs/install/]);
